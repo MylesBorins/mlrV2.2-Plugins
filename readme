@@ -1,0 +1,5 @@
+mlrV2.2 Plugins
+
+Currently there is only a single plugin.  This is a demo app showing how to control both bpm and volume of mlrV2.2 utilizing pattr objects and the broken out pattrmarker added to the serialosc edition of mlrV2.2
+
+This will be updated fairly soon with new plug in concepts, specifically a series of apps designed to interface the arc with mlrV2.2
