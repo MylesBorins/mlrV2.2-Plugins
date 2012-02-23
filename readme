@@ -5,3 +5,6 @@ Currently there is only a single plugin.  This is a demo app showing how to cont
 If you are not using the serialosc edition of mlrV2.2 you can place the _mlrV_nermod.maxpat in your mlrv2.2 folder, and open it instead of the generic _mlrV.maxpat in order to use the plugins.
 
 This will be updated fairly soon with new plug in concepts, specifically a series of apps designed to interface the arc with mlrV2.2
+
+These plug-ins require the OSC-Route object that can be found in the CNMAT Everything collection:
+http://cnmat.berkeley.edu/downloads
